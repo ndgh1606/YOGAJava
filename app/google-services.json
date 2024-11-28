@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "337652339978",
+    "firebase_url": "https://yogajava-5b04a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yogajava-5b04a",
+    "storage_bucket": "yogajava-5b04a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337652339978:android:d65a67a8901d8a003256f3",
+        "android_client_info": {
+          "package_name": "com.example.yogajava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9DVdtFtZBeBRX6VxX1nW6VYf0raqFoUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

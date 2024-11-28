@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinner_day_of_week" type="id" />
+    <item name="edit_text_time" type="id" />
+    <item name="edit_text_capacity" type="id" />
+    <item name="edit_text_duration" type="id" />
+    <item name="edit_text_price" type="id" />
+    <item name="spinner_class_type" type="id" />
+    <item name="edit_text_description" type="id" />
+    <item name="button_save" type="id" />
+    <item name="spinner_time" type="id" />
+    <item name="action_delete" type="id" />
+    <item name="action_edit" type="id" />
+</resources>
